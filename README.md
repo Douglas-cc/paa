@@ -1,2 +1,5 @@
 # Projeto e Analise de Algoritmos
-Algoritmos de multiplicação de números grandes com abordagem de divisão e conquista
+
+1. Algoritmos de multiplicação de números inteiros grandes com abordagem de divisão e conquista
+- 3rd-grade
+- Karatsuba
